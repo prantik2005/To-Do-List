@@ -76,23 +76,3 @@ input::placeholder{
     top: 50%;
     left:  12%;
 }
-/*li {
-    list-style: disc;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px;
-    padding: 8px 5px;
-    background-color: rgb(144, 233, 255);
-}
-
-.checkbox-button {
-    width: 18px;
-    height: 18px;
-    vertical-align: middle;
-    margin-top: 42px;
-}
-
-span {
-    font-size: 16px;
-}*/
